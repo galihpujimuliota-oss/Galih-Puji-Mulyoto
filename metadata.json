@@ -1,0 +1,6 @@
+{
+  "name": "UIN Malang Voice Studio",
+  "description": "Aplikasi text-to-speech dan kloning suara untuk menghasilkan audio lirik dan yel-yel.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
